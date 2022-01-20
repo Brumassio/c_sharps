@@ -1,0 +1,15 @@
+C:\Users\Diogo Brumassio\Desktop\Curso_C#\Codigos_em_C#\Course\Course\bin\Debug\net6.0\Course.exe
+C:\Users\Diogo Brumassio\Desktop\Curso_C#\Codigos_em_C#\Course\Course\bin\Debug\net6.0\Course.deps.json
+C:\Users\Diogo Brumassio\Desktop\Curso_C#\Codigos_em_C#\Course\Course\bin\Debug\net6.0\Course.runtimeconfig.json
+C:\Users\Diogo Brumassio\Desktop\Curso_C#\Codigos_em_C#\Course\Course\bin\Debug\net6.0\Course.dll
+C:\Users\Diogo Brumassio\Desktop\Curso_C#\Codigos_em_C#\Course\Course\bin\Debug\net6.0\ref\Course.dll
+C:\Users\Diogo Brumassio\Desktop\Curso_C#\Codigos_em_C#\Course\Course\bin\Debug\net6.0\Course.pdb
+C:\Users\Diogo Brumassio\Desktop\Curso_C#\Codigos_em_C#\Course\Course\obj\Debug\net6.0\Course.csproj.AssemblyReference.cache
+C:\Users\Diogo Brumassio\Desktop\Curso_C#\Codigos_em_C#\Course\Course\obj\Debug\net6.0\Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diogo Brumassio\Desktop\Curso_C#\Codigos_em_C#\Course\Course\obj\Debug\net6.0\Course.AssemblyInfoInputs.cache
+C:\Users\Diogo Brumassio\Desktop\Curso_C#\Codigos_em_C#\Course\Course\obj\Debug\net6.0\Course.AssemblyInfo.cs
+C:\Users\Diogo Brumassio\Desktop\Curso_C#\Codigos_em_C#\Course\Course\obj\Debug\net6.0\Course.csproj.CoreCompileInputs.cache
+C:\Users\Diogo Brumassio\Desktop\Curso_C#\Codigos_em_C#\Course\Course\obj\Debug\net6.0\Course.dll
+C:\Users\Diogo Brumassio\Desktop\Curso_C#\Codigos_em_C#\Course\Course\obj\Debug\net6.0\ref\Course.dll
+C:\Users\Diogo Brumassio\Desktop\Curso_C#\Codigos_em_C#\Course\Course\obj\Debug\net6.0\Course.pdb
+C:\Users\Diogo Brumassio\Desktop\Curso_C#\Codigos_em_C#\Course\Course\obj\Debug\net6.0\Course.genruntimeconfig.cache
