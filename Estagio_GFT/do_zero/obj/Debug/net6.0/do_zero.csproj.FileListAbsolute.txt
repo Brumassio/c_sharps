@@ -1,0 +1,15 @@
+C:\Users\Diogo Brumassio\Desktop\Estagio_GFT\do_zero\bin\Debug\net6.0\do_zero.exe
+C:\Users\Diogo Brumassio\Desktop\Estagio_GFT\do_zero\bin\Debug\net6.0\do_zero.deps.json
+C:\Users\Diogo Brumassio\Desktop\Estagio_GFT\do_zero\bin\Debug\net6.0\do_zero.runtimeconfig.json
+C:\Users\Diogo Brumassio\Desktop\Estagio_GFT\do_zero\bin\Debug\net6.0\do_zero.dll
+C:\Users\Diogo Brumassio\Desktop\Estagio_GFT\do_zero\bin\Debug\net6.0\ref\do_zero.dll
+C:\Users\Diogo Brumassio\Desktop\Estagio_GFT\do_zero\bin\Debug\net6.0\do_zero.pdb
+C:\Users\Diogo Brumassio\Desktop\Estagio_GFT\do_zero\obj\Debug\net6.0\do_zero.csproj.AssemblyReference.cache
+C:\Users\Diogo Brumassio\Desktop\Estagio_GFT\do_zero\obj\Debug\net6.0\do_zero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diogo Brumassio\Desktop\Estagio_GFT\do_zero\obj\Debug\net6.0\do_zero.AssemblyInfoInputs.cache
+C:\Users\Diogo Brumassio\Desktop\Estagio_GFT\do_zero\obj\Debug\net6.0\do_zero.AssemblyInfo.cs
+C:\Users\Diogo Brumassio\Desktop\Estagio_GFT\do_zero\obj\Debug\net6.0\do_zero.csproj.CoreCompileInputs.cache
+C:\Users\Diogo Brumassio\Desktop\Estagio_GFT\do_zero\obj\Debug\net6.0\do_zero.dll
+C:\Users\Diogo Brumassio\Desktop\Estagio_GFT\do_zero\obj\Debug\net6.0\ref\do_zero.dll
+C:\Users\Diogo Brumassio\Desktop\Estagio_GFT\do_zero\obj\Debug\net6.0\do_zero.pdb
+C:\Users\Diogo Brumassio\Desktop\Estagio_GFT\do_zero\obj\Debug\net6.0\do_zero.genruntimeconfig.cache

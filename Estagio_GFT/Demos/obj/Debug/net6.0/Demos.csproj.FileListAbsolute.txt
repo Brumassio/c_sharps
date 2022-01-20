@@ -1,0 +1,15 @@
+C:\Users\Diogo Brumassio\Desktop\Estagio_GFT\Demos\bin\Debug\net6.0\Demos.exe
+C:\Users\Diogo Brumassio\Desktop\Estagio_GFT\Demos\bin\Debug\net6.0\Demos.deps.json
+C:\Users\Diogo Brumassio\Desktop\Estagio_GFT\Demos\bin\Debug\net6.0\Demos.runtimeconfig.json
+C:\Users\Diogo Brumassio\Desktop\Estagio_GFT\Demos\bin\Debug\net6.0\Demos.dll
+C:\Users\Diogo Brumassio\Desktop\Estagio_GFT\Demos\bin\Debug\net6.0\ref\Demos.dll
+C:\Users\Diogo Brumassio\Desktop\Estagio_GFT\Demos\bin\Debug\net6.0\Demos.pdb
+C:\Users\Diogo Brumassio\Desktop\Estagio_GFT\Demos\obj\Debug\net6.0\Demos.csproj.AssemblyReference.cache
+C:\Users\Diogo Brumassio\Desktop\Estagio_GFT\Demos\obj\Debug\net6.0\Demos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diogo Brumassio\Desktop\Estagio_GFT\Demos\obj\Debug\net6.0\Demos.AssemblyInfoInputs.cache
+C:\Users\Diogo Brumassio\Desktop\Estagio_GFT\Demos\obj\Debug\net6.0\Demos.AssemblyInfo.cs
+C:\Users\Diogo Brumassio\Desktop\Estagio_GFT\Demos\obj\Debug\net6.0\Demos.csproj.CoreCompileInputs.cache
+C:\Users\Diogo Brumassio\Desktop\Estagio_GFT\Demos\obj\Debug\net6.0\Demos.dll
+C:\Users\Diogo Brumassio\Desktop\Estagio_GFT\Demos\obj\Debug\net6.0\ref\Demos.dll
+C:\Users\Diogo Brumassio\Desktop\Estagio_GFT\Demos\obj\Debug\net6.0\Demos.pdb
+C:\Users\Diogo Brumassio\Desktop\Estagio_GFT\Demos\obj\Debug\net6.0\Demos.genruntimeconfig.cache
