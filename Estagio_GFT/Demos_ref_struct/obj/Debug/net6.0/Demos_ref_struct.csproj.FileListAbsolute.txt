@@ -1,0 +1,15 @@
+C:\Users\Diogo Brumassio\Desktop\Codigos_em_C#\Estagio_GFT\Demos_ref_struct\bin\Debug\net6.0\Demos_ref_struct.exe
+C:\Users\Diogo Brumassio\Desktop\Codigos_em_C#\Estagio_GFT\Demos_ref_struct\bin\Debug\net6.0\Demos_ref_struct.deps.json
+C:\Users\Diogo Brumassio\Desktop\Codigos_em_C#\Estagio_GFT\Demos_ref_struct\bin\Debug\net6.0\Demos_ref_struct.runtimeconfig.json
+C:\Users\Diogo Brumassio\Desktop\Codigos_em_C#\Estagio_GFT\Demos_ref_struct\bin\Debug\net6.0\Demos_ref_struct.dll
+C:\Users\Diogo Brumassio\Desktop\Codigos_em_C#\Estagio_GFT\Demos_ref_struct\bin\Debug\net6.0\ref\Demos_ref_struct.dll
+C:\Users\Diogo Brumassio\Desktop\Codigos_em_C#\Estagio_GFT\Demos_ref_struct\bin\Debug\net6.0\Demos_ref_struct.pdb
+C:\Users\Diogo Brumassio\Desktop\Codigos_em_C#\Estagio_GFT\Demos_ref_struct\obj\Debug\net6.0\Demos_ref_struct.csproj.AssemblyReference.cache
+C:\Users\Diogo Brumassio\Desktop\Codigos_em_C#\Estagio_GFT\Demos_ref_struct\obj\Debug\net6.0\Demos_ref_struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diogo Brumassio\Desktop\Codigos_em_C#\Estagio_GFT\Demos_ref_struct\obj\Debug\net6.0\Demos_ref_struct.AssemblyInfoInputs.cache
+C:\Users\Diogo Brumassio\Desktop\Codigos_em_C#\Estagio_GFT\Demos_ref_struct\obj\Debug\net6.0\Demos_ref_struct.AssemblyInfo.cs
+C:\Users\Diogo Brumassio\Desktop\Codigos_em_C#\Estagio_GFT\Demos_ref_struct\obj\Debug\net6.0\Demos_ref_struct.csproj.CoreCompileInputs.cache
+C:\Users\Diogo Brumassio\Desktop\Codigos_em_C#\Estagio_GFT\Demos_ref_struct\obj\Debug\net6.0\Demos_ref_struct.dll
+C:\Users\Diogo Brumassio\Desktop\Codigos_em_C#\Estagio_GFT\Demos_ref_struct\obj\Debug\net6.0\ref\Demos_ref_struct.dll
+C:\Users\Diogo Brumassio\Desktop\Codigos_em_C#\Estagio_GFT\Demos_ref_struct\obj\Debug\net6.0\Demos_ref_struct.pdb
+C:\Users\Diogo Brumassio\Desktop\Codigos_em_C#\Estagio_GFT\Demos_ref_struct\obj\Debug\net6.0\Demos_ref_struct.genruntimeconfig.cache
