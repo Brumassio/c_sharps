@@ -1,0 +1,15 @@
+C:\Users\Diogo Brumassio\Desktop\Codigos_em_C#\Desafios\bin\Debug\net6.0\Desafios.exe
+C:\Users\Diogo Brumassio\Desktop\Codigos_em_C#\Desafios\bin\Debug\net6.0\Desafios.deps.json
+C:\Users\Diogo Brumassio\Desktop\Codigos_em_C#\Desafios\bin\Debug\net6.0\Desafios.runtimeconfig.json
+C:\Users\Diogo Brumassio\Desktop\Codigos_em_C#\Desafios\bin\Debug\net6.0\Desafios.dll
+C:\Users\Diogo Brumassio\Desktop\Codigos_em_C#\Desafios\bin\Debug\net6.0\ref\Desafios.dll
+C:\Users\Diogo Brumassio\Desktop\Codigos_em_C#\Desafios\bin\Debug\net6.0\Desafios.pdb
+C:\Users\Diogo Brumassio\Desktop\Codigos_em_C#\Desafios\obj\Debug\net6.0\Desafios.csproj.AssemblyReference.cache
+C:\Users\Diogo Brumassio\Desktop\Codigos_em_C#\Desafios\obj\Debug\net6.0\Desafios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diogo Brumassio\Desktop\Codigos_em_C#\Desafios\obj\Debug\net6.0\Desafios.AssemblyInfoInputs.cache
+C:\Users\Diogo Brumassio\Desktop\Codigos_em_C#\Desafios\obj\Debug\net6.0\Desafios.AssemblyInfo.cs
+C:\Users\Diogo Brumassio\Desktop\Codigos_em_C#\Desafios\obj\Debug\net6.0\Desafios.csproj.CoreCompileInputs.cache
+C:\Users\Diogo Brumassio\Desktop\Codigos_em_C#\Desafios\obj\Debug\net6.0\Desafios.dll
+C:\Users\Diogo Brumassio\Desktop\Codigos_em_C#\Desafios\obj\Debug\net6.0\ref\Desafios.dll
+C:\Users\Diogo Brumassio\Desktop\Codigos_em_C#\Desafios\obj\Debug\net6.0\Desafios.pdb
+C:\Users\Diogo Brumassio\Desktop\Codigos_em_C#\Desafios\obj\Debug\net6.0\Desafios.genruntimeconfig.cache
