@@ -7,8 +7,8 @@ Estagio_GFT/Demos_ref/obj/
 Estagio_GFT/Demos_ref_struct/bin/
 Estagio_GFT/Demos_ref_struct/obj/
 
-Desafios/bin/
-Desafios/obj/
+Desafios/RPG/bin/
+Desafios/RPG/obj/
 
 Estagio_GFT/Arquivos_e_Streams/csvHelper/bin/
 Estagio_GFT/Arquivos_e_Streams/csvHelper/obj/
@@ -36,6 +36,18 @@ Estagio_GFT/Arquivos_e_Streams/StringWriter/obj/
 
 Estagio_GFT/ConstrutoresPropDelegatesEvent/ExemploConstrutores/bin/
 Estagio_GFT/ConstrutoresPropDelegatesEvent/ExemploConstrutores/obj/
+
+Estagio_GFT/Colecoes_e_LINQ/ExemploColecoes/bin/
+Estagio_GFT/Colecoes_e_LINQ/ExemploColecoes/obj/
+
+Estagio_GFT/Exceptions/ExemploException/bin/
+Estagio_GFT/Exceptions/ExemploException/obj/
+
+Estagio_GFT/ExemploPOO/POO_HEPA/bin/
+Estagio_GFT/ExemploPOO/POO_HEPA/obj/
+
+Desafios/APP_CadastroSeries/bin/
+Desafios/APP_CadastroSeries/obj/
 
 
 
