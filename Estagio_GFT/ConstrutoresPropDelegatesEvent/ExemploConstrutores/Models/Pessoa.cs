@@ -2,8 +2,9 @@ namespace ExemploConstrutores.Models
 {
     public class Pessoa
     {
-        private string nome;
-        private string sobrenome;
+        //readonly protege contra a alteração sem ser na sua inicialização ou no construtor
+        private readonly string nome = "Diogo";
+        private readonly string sobrenome;
 
         //construtor 1
         public Pessoa()
